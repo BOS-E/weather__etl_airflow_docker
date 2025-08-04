@@ -1,0 +1,14 @@
+logs/
+__pycache__/
+.env
+airflow.db
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.log
+venv/
+*.db
+
+airflow.cfg
+
